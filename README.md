@@ -24,6 +24,12 @@ This repository is being built as a public working library. The first files will
 
 Do not layer AI on top of broken workflows. Redesign the workflow first.
 
+## Repository structure
+
+- [Frameworks](./frameworks/workflow-redesign-framework.md)
+- [Templates](./templates/workflow-redesign-template.md)
+- [Checklists](./checklists/human-in-the-loop-checkpoints.md)
+
 ## Related repositories
 
 - [Enterprise AI Use-Case Blueprints](https://github.com/suchetna/enterprise-ai-use-case-blueprints)
